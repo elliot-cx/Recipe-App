@@ -1,16 +1,7 @@
-# recipe_app
+# Recipe App
 
-A new Flutter project.
+This project is just a showcase of a recipe app UI design implemented in a Flutter application 
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://cdn.discordapp.com/attachments/929500253734969378/1033662240701829140/unknown.png" alt="img" style="zoom:46%;" /><img src="https://cdn.discordapp.com/attachments/929500253734969378/1033662413674905670/unknown.png" alt="img" style="zoom:50%;" /><img src="https://cdn.discordapp.com/attachments/929500253734969378/1033662514992517120/unknown.png" alt="img" style="zoom:50%;" /><img src="https://cdn.discordapp.com/attachments/929500253734969378/1033662578544623668/unknown.png" alt="img" style="zoom:50%;" />
